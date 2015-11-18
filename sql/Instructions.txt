@@ -1,0 +1,3 @@
+createTables.sql will create the tables you need on your server. 
+
+This work is in it's initial stage and largely incomplete.
